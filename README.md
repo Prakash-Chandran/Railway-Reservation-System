@@ -1,8 +1,7 @@
 ## EX:3 RAILWAY RESERVATION SYSTEM
-```
-Name : PRAKASH C
-Reg No : 212223240122
-```
+### NAME: PRAKASH C
+### REG NO: 212223240122
+### DATE: 03.10.2024
 # AIM
  To Develope the Railway Reservation System using Star UML tool.
 
