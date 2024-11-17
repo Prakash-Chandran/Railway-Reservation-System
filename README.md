@@ -1,4 +1,4 @@
-# EX NO:- 3  -  Railway-Reservation-System
+## EX:3 RAILWAY RESERVATION SYSTEM
 ```
 Name : PRAKASH C
 Reg No : 212223240122
